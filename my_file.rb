@@ -1,1 +1,1 @@
-puts "hello new world"
+puts "goodbye cruel world"
