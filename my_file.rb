@@ -1,1 +1,1 @@
-puts "goodbye cruel world"
+puts "Dealing with conflict"
