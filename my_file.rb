@@ -1,1 +1,1 @@
-puts "merge this!"
+puts "conflict resolution test!"
