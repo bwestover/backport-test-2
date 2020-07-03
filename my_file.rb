@@ -1,1 +1,1 @@
-puts "conflict resolution test!"
+puts "Dealing with more conflict"
