@@ -1,1 +1,1 @@
-# New file 1
+# It's a conflict. Deal with it.
