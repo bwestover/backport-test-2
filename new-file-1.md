@@ -1,1 +1,3 @@
-# It's a conflict. Deal with it.
+# Updated title
+
+Some new content.
